@@ -3,6 +3,10 @@
 ## About This Project
 
 This game was developed for my Final Year Project.
+A moral dilemma is introduced into a standard multiplayer co-op game. Each player has a unique task they need to complete.
+They can choose whether to announce their task to other players or to keep it hidden. If they choose to publicise, they may
+receive help from the lobby. However, the lobby may also choose to sabotage by obstructing the task. The game revolves around
+social interactions and human decency. Will you help your teammates? Or will you hold them back just for fun?
 
 ## Download and Playtest
 
